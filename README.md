@@ -1,4 +1,4 @@
-<h1>Projeto de Barbearia Alura</h1>
+<h1>Gerenciamento de Jogos</h1>
 
 >Status do projeto: Em Desenvolvimento
 
