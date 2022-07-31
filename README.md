@@ -1,9 +1,9 @@
-<h1>Gerenciamento de Jogos</h1>
+# Sitema de cadastro de jogos
 
 >Status do projeto: Em Desenvolvimento
 
-para rodar necessário ter um navegador de internet
+Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-npm intal react test
+node app.js
 ```
